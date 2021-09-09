@@ -1,0 +1,35 @@
+.checkoutProduct{
+    display: flex;
+    margin: 20px 0;
+    /* background-color: white; */
+}
+
+.checkoutProduct__image {
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+}
+
+.checkoutProduct__info{
+    padding-left: 20px;
+}
+
+.checkoutProduct__title{
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.checkoutProduct__rating{
+    display: flex;  
+}
+
+.checkoutProduct__price{
+    font-size: 18px;
+    font-weight: 800px;
+}
+
+.checkoutProduct button {
+    margin-top: 20px;
+    background-color: orange;
+    border: 1px solid darkgoldenrod;
+}
