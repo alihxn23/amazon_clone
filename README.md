@@ -1,3 +1,13 @@
+This app is deployed at the following link:
+git remote add origin https://github.com/alihxn23/amazon_clone.git
+[LINK]: http://alihxn23.github.io/amazon_clone
+
+followed amazon clone app tutorial by qazi to create this app
+
+things to do: 
+- make shoping cart persistent
+- think of other changes....
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
